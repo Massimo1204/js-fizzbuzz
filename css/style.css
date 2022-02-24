@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: yellow;
+}
+
+.my-box{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(11, 158, 11);
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    line-height: 200px;
+}
