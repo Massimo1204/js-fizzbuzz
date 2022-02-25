@@ -1,5 +1,5 @@
 let randomNumber;
-let counter = 2 ;
+let counter = 1 ;
 const boxBox = document.getElementById('my-box-box');
 const button = document.getElementById('button-off');
 
